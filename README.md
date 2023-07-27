@@ -1,0 +1,2 @@
+# kate
+print('Hello World')
